@@ -93,25 +93,27 @@
       "dateCompleted": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)"
     },
     {
-      "id": 2,
       "userId": 3,
       "description": "Vero est adipisci sed natus quasi consectetur occaecati. Modi maxime sunt officia cumque. Vel at culpa. Sint accusamus deserunt dolorem qui.",
       "emergency": true,
-      "dateCompleted": ""
+      "dateCompleted": "4/17/2023",
+      "id": 2
     },
     {
-      "id": 3,
       "userId": 1,
       "description": "Sunt pariatur et quidem hic voluptatem. Neque aliquam voluptas eos incidunt repellendus. Vero expedita non sit quaerat sit et eum. Quasi dolor voluptatem illum eum qui est expedita sequi accusamus. Edited.",
       "emergency": false,
-      "dateCompleted": ""
+      "dateCompleted": "4/17/2023",
+      "completedBy": "Helenelizabeth Passfield",
+      "id": 3
     },
     {
-      "id": 4,
       "userId": 2,
       "description": "A deleniti est sed vel. Dolores aliquid enim vero. Quia eligendi vel voluptas. Nihil nihil quasi ullam officia doloremque amet non. Officia atque quae.",
       "emergency": false,
-      "dateCompleted": ""
+      "dateCompleted": "4/17/2023",
+      "completedBy": "Helenelizabeth Passfield",
+      "id": 4
     },
     {
       "id": 5,
@@ -121,46 +123,20 @@
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
     },
     {
-      "userId": 2,
-      "description": "",
-      "emergency": false,
-      "dateCompleted": "",
+      "userId": 1,
+      "description": "Test for claim.",
+      "emergency": true,
+      "dateCompleted": "4/17/2023",
+      "completedBy": "Helenelizabeth Passfield",
       "id": 6
     },
     {
-      "userId": 2,
-      "description": "dgsdg",
-      "emergency": true,
-      "dateCompleted": "",
+      "userId": 1,
+      "description": "Test #2. Claim me, biotch!",
+      "emergency": false,
+      "dateCompleted": "4/17/2023",
+      "completedBy": "Helenelizabeth Passfield",
       "id": 7
-    },
-    {
-      "userId": 1,
-      "description": "Dongs",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "description": "My computer exploded!",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 9
-    },
-    {
-      "userId": 2,
-      "description": "My face is on fire!",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 10
-    },
-    {
-      "userId": 2,
-      "description": "Help!",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 11
     }
   ],
   "employeeTickets": [
@@ -183,6 +159,26 @@
       "employeeId": 1,
       "serviceTicketId": 2,
       "id": 4
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 3,
+      "id": 5
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 6,
+      "id": 6
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 6,
+      "id": 7
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 7,
+      "id": 8
     }
   ]
 }
