@@ -137,6 +137,14 @@
       "dateCompleted": "4/17/2023",
       "completedBy": "Helenelizabeth Passfield",
       "id": 7
+    },
+    {
+      "userId": 1,
+      "description": "Test Ticket 3 Button CSS",
+      "emergency": false,
+      "dateCompleted": "4/17/2023",
+      "completedBy": "Helenelizabeth Passfield",
+      "id": 8
     }
   ],
   "employeeTickets": [
@@ -179,6 +187,11 @@
       "employeeId": 1,
       "serviceTicketId": 7,
       "id": 8
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 8,
+      "id": 9
     }
   ]
 }
