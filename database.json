@@ -99,14 +99,6 @@
       "id": 2
     },
     {
-      "userId": 1,
-      "description": "Sunt pariatur et quidem hic voluptatem. Neque aliquam voluptas eos incidunt repellendus. Vero expedita non sit quaerat sit et eum. Quasi dolor voluptatem illum eum qui est expedita sequi accusamus. Edited.",
-      "emergency": false,
-      "dateCompleted": "4/17/2023",
-      "completedBy": "Helenelizabeth Passfield",
-      "id": 3
-    },
-    {
       "userId": 2,
       "description": "A deleniti est sed vel. Dolores aliquid enim vero. Quia eligendi vel voluptas. Nihil nihil quasi ullam officia doloremque amet non. Officia atque quae.",
       "emergency": false,
@@ -128,22 +120,6 @@
       "dateCompleted": "4/17/2023",
       "completedBy": "Helenelizabeth Passfield",
       "id": 6
-    },
-    {
-      "userId": 1,
-      "description": "Test #2. Claim me, biotch!",
-      "emergency": false,
-      "dateCompleted": "4/17/2023",
-      "completedBy": "Helenelizabeth Passfield",
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "description": "Test Ticket 3 Button CSS",
-      "emergency": false,
-      "dateCompleted": "4/17/2023",
-      "completedBy": "Helenelizabeth Passfield",
-      "id": 8
     }
   ],
   "employeeTickets": [
@@ -169,11 +145,6 @@
     },
     {
       "employeeId": 1,
-      "serviceTicketId": 3,
-      "id": 5
-    },
-    {
-      "employeeId": 1,
       "serviceTicketId": 6,
       "id": 6
     },
@@ -181,16 +152,6 @@
       "employeeId": 1,
       "serviceTicketId": 6,
       "id": 7
-    },
-    {
-      "employeeId": 1,
-      "serviceTicketId": 7,
-      "id": 8
-    },
-    {
-      "employeeId": 1,
-      "serviceTicketId": 8,
-      "id": 9
     }
   ]
 }
