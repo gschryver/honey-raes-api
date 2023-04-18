@@ -45,30 +45,29 @@
   ],
   "customers": [
     {
+      "address": "101 N Eden",
+      "phoneNumber": "304-780-0065",
       "id": 1,
-      "address": "101 N Main St",
-      "phoneNumber": "304780001",
-      "userId": 1,
-      "specialty": "322 Main St"
+      "userId": 1
     },
     {
-      "id": 2,
-      "address": "56849 Fadel Gateway",
-      "phoneNumber": "202-244-7090",
-      "userId": 2
+      "address": "311 Long st",
+      "phoneNumber": "355-353-2525",
+      "userId": 2,
+      "id": 2
     },
     {
-      "id": 3,
-      "address": "7346 Ritchie Road",
-      "phoneNumber": "(507) 720-1157",
-      "userId": 3
+      "address": "311 Long st",
+      "phoneNumber": "555-555-5555",
+      "userId": 3,
+      "id": 3
     }
   ],
   "employees": [
     {
       "id": 1,
-      "specialty": "WEEE",
-      "rate": 3532,
+      "specialty": "dickledongs",
+      "rate": 5,
       "userId": 4
     },
     {
