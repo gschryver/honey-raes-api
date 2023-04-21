@@ -45,10 +45,10 @@
   ],
   "customers": [
     {
-      "address": "101 N Eden",
-      "phoneNumber": "304-780-0065",
-      "id": 1,
-      "userId": 1
+      "address": "FSDG",
+      "phoneNumber": "304-555-1212",
+      "userId": 1,
+      "id": 1
     },
     {
       "address": "311 Long st",
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "dickedongs",
-      "rate": 20,
+      "specialty": "325624323525",
+      "rate": 45235,
       "userId": 4
     },
     {
@@ -109,17 +109,32 @@
     {
       "id": 5,
       "userId": 1,
-      "description": "Pariatur nihil animi eos doloremque laborum fugiat consequuntur iusto. Et tempore a enim.",
+      "description": "Tedious",
       "emergency": true,
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
     },
     {
       "userId": 1,
-      "description": "Test for claim.",
-      "emergency": true,
+      "description": "Test for claim. No emergency now",
+      "emergency": false,
       "dateCompleted": "4/17/2023",
       "completedBy": "Helenelizabeth Passfield",
       "id": 6
+    },
+    {
+      "userId": 1,
+      "description": "Dongs",
+      "emergency": true,
+      "dateCompleted": "4/21/2023",
+      "completedBy": "Helenelizabeth Passfield",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "description": "HURGH",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 8
     }
   ],
   "employeeTickets": [
@@ -152,6 +167,11 @@
       "employeeId": 1,
       "serviceTicketId": 6,
       "id": 7
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 7,
+      "id": 8
     }
   ]
 }
